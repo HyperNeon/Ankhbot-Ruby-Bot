@@ -1,6 +1,6 @@
 # Ankhbot Ruby Bot
 
-## Note: While the chat functions of this bot are still functional. The DB connections are no longer possible due to encryption enacted in recent Ankhbot updates and, as such, the Rank Announcer functionality has been deprecated. The replacement for use in Ankhbot's new built in Scripting Module can be found here [Ankhbot Rank Change Announcer](https://github.com/HyperNeon/ankhbot-rank-change-announcer)
+## Note: While the chat functions of this bot are still functional, the DB connections are no longer possible due to encryption enacted in recent Ankhbot updates and, as such, the Rank Announcer functionality has been deprecated. The replacement for use in Ankhbot's new built in Scripting Module can be found here [Ankhbot Rank Change Announcer](https://github.com/HyperNeon/ankhbot-rank-change-announcer)
 
 A quick command line Ruby bot I made to easily add some additional functionality to the awesome [Ankhbot Twitch Bot](http://www.ankhbot.com/)
 You can check out the functionality on [Github](https://github.com/HyperNeon/Ankhbot-Ruby-Bot)
